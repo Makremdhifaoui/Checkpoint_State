@@ -9,7 +9,7 @@ class App extends Component{
   this.state = {
     Person : { fullName:"DHIFAOUI MAKREM",
      bio: <p> 26 year old, Je suis FullStack Developer, Dynamique, <br />
-      rigoureuse et polyvalente, je tiens à vous assurer de ma motivation</p>,
+    et polyvalent, je tiens à vous assurer de ma motivation</p>,
       imgSrc:'./photo.jpg' ,
        profession:"FullStack JS Developer"},
     show : true
